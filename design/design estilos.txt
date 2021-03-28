@@ -1,0 +1,11 @@
+Estilo:
+Geométrico nas formas, orgânico em algumas tipografias.
+
+Tipografia:
+Arial titulos/subtitulos
+Georgia corpo de texto/call-to-action
+
+
+Cores:
+#fec63e
+#000000
